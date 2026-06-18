@@ -34,33 +34,33 @@
 <p align="left">
   <!-- Deep & Machine Learning -->
   <a href="https://tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev-badges/main/badges/tensorflow-color.svg" height="40" alt="TensorFlow" />
+    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" height="38" alt="TensorFlow" />
   </a>
   <a href="https://keras.io" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" height="40" alt="Keras" />
+    <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" height="38" alt="Keras" />
   </a>
   <a href="https://scikit-learn.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev-badges/main/badges/sklearn-color.svg" height="40" alt="Scikit-Learn" />
+    <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" height="38" alt="Scikit-Learn" />
   </a>
   <!-- Programming Core -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev-badges/main/badges/python-color.svg" height="40" alt="Python" />
+    <img src="https://img.shields.io/badge/python-3572A5?style=for-the-badge&logo=python&logoColor=white" height="38" alt="Python" />
   </a>
   <a href="https://numpy.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev-badges/main/badges/numpy-color.svg" height="40" alt="NumPy" />
+    <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" height="38" alt="NumPy" />
   </a>
   <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev-badges/main/badges/pandas-color.svg" height="40" alt="Pandas" />
+    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" height="38" alt="Pandas" />
   </a>
   <!-- Image Processing & Tools -->
   <a href="https://opencv.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="40" alt="OpenCV" />
+    <img src="https://img.shields.io/badge/OpenCV-white?style=for-the-badge&logo=opencv&logoColor=5C3EE8" height="38" alt="OpenCV" />
   </a>
   <a href="https://git-scm.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev-badges/main/badges/git-color.svg" height="40" alt="Git" />
+    <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" height="38" alt="Git" />
   </a>
   <a href="https://www.linux.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev-badges/main/badges/linux-color.svg" height="40" alt="Linux" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="38" alt="Linux" />
   </a>
 </p>
 
