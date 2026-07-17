@@ -20,7 +20,7 @@
       <p>⚡ Fast, modular, and performance-driven development is my core engineering philosophy.</p>
     </td>
     <td width="35%" valign="middle" align="center">
-      <!-- 👁️ PROFILE VISITORS BADGE (Stable & Fast) -->
+      <!-- 👁️ PROFILE VISITORS BADGE -->
       <img src="https://komarev.com/ghpvc/?username=mrhashx&color=0078d4&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
     </td>
   </tr>
@@ -103,7 +103,6 @@
 ## 📊 Analytical Insights & GitHub Metrics
 
 <p align="center">
-  <!-- Stable Mirror API URLs -->
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mrhashx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mrhashx&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages" />
 </p>
@@ -113,8 +112,24 @@
 ## 🧲 Connect & Collaborate
 
 <p align="center">
+  <!-- GitHub -->
   <a href="https://github.com/mrhashx" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Account" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <!-- Email -->
+  <a href="mailto:ah.maniee.79@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <!-- Telegram -->
+  <a href="https://t.me/Ninja_ranger" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  &nbsp;
+  <!-- Instagram -->
+  <a href="https://instagram.com/Mr.HASHx" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
