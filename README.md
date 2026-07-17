@@ -12,17 +12,16 @@
 
 ## 💫 About Me
 
-<table align="center" border="0" cellpadding="10" cellspacing="0">
+<table align="center" border="0" cellpadding="10" cellspacing="0" width="100%">
   <tr>
-    <td width="60%" valign="top">
+    <td width="65%" valign="top">
       <p>👋 <b>Hello! I'm Abdolhossein Maniee</b>, a Graduate Student in <b>Artificial Intelligence</b> deeply invested in solving complex real-world computer vision and medical image diagnostic challenges.</p>
       <p>🎯 My research environment bridges deep mathematical tensor transformations with production-grade deep learning pipelines, optimizing networks for precise diagnostic analytics and high-dimensional feature selection.</p>
       <p>⚡ Fast, modular, and performance-driven development is my core engineering philosophy.</p>
     </td>
-    <td width="40%" valign="middle" align="center">
-      <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrhashx&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-      </a>
+    <td width="35%" valign="middle" align="center">
+      <!-- 👁️ PROFILE VISITORS BADGE (Stable & Fast) -->
+      <img src="https://komarev.com/ghpvc/?username=mrhashx&color=0078d4&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
     </td>
   </tr>
 </table>
@@ -104,8 +103,9 @@
 ## 📊 Analytical Insights & GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrhashx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrhashx&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages" />
+  <!-- Stable Mirror API URLs -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mrhashx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mrhashx&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages" />
 </p>
 
 ---
