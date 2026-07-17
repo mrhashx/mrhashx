@@ -1,123 +1,54 @@
+# 👋 Hi, I'm Abdolhossein Maniee (MrHASH)
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Abdolhossein%20Maniee&fontSize=45&animation=fadeIn&fontColor=ffffff&theme=tokyonight" alt="Header Banner" />
+  <img src="https://komarev.com/ghpvc/?username=mrhashx&color=ea4335&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Degree-Master's%20in%20AI-blue?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Specialty-Computer%20Vision-green?style=for-the-badge&logo=google-brain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framework-Deep%20Learning-orange?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <strong>AI Researcher & Engineer | Master of Artificial Intelligence | Tactical Gamer & Streamer</strong>
 </p>
 
----
-
-## 💫 About Me
-
-<table align="center" border="0" cellpadding="10" cellspacing="0">
-  <tr>
-    <td width="60%" valign="top">
-      <p>👋 <b>Hello! I'm Abdolhossein Maniee</b>, a Graduate Student in <b>Artificial Intelligence</b> deeply invested in solving complex real-world computer vision and medical image diagnostic challenges.</p>
-      <p>🎯 My research environment bridges deep mathematical tensor transformations with production-grade deep learning pipelines, optimizing networks for precise diagnostic analytics and high-dimensional feature selection.</p>
-      <p>⚡ Fast, modular, and performance-driven development is my core engineering philosophy.</p>
-    </td>
-    <td width="40%" valign="middle" align="center">
-      <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrhashx&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🛠️ Skills & Technologies
-
-<p align="left">
-  <!-- Deep & Machine Learning -->
-  <a href="https://tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" height="38" alt="TensorFlow" />
-  </a>
-  <a href="https://keras.io" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" height="38" alt="Keras" />
-  </a>
-  <a href="https://scikit-learn.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" height="38" alt="Scikit-Learn" />
-  </a>
-  <!-- Programming Core -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/python-3572A5?style=for-the-badge&logo=python&logoColor=white" height="38" alt="Python" />
-  </a>
-  <a href="https://numpy.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" height="38" alt="NumPy" />
-  </a>
-  <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" height="38" alt="Pandas" />
-  </a>
-  <!-- Image Processing & Tools -->
-  <a href="https://opencv.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/OpenCV-white?style=for-the-badge&logo=opencv&logoColor=5C3EE8" height="38" alt="OpenCV" />
-  </a>
-  <a href="https://git-scm.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" height="38" alt="Git" />
-  </a>
-  <a href="https://www.linux.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="38" alt="Linux" />
-  </a>
+<p align="center">
+  <a href="mailto:ah.maniee.79@gmail.com"><img src="https://img.shields.io/badge/Email-ah.maniee.79%40gmail.com-ea4335?style=flat-square&logo=gmail" alt="Email" /></a>
+  <a href="https://github.com/mrhashx"><img src="https://img.shields.io/badge/GitHub-mrhashx-181717?style=flat-square&logo=github" alt="GitHub" /></a>
 </p>
 
 ---
 
-## 🔬 Featured Projects Showcase
+### 🚀 About Me
 
-<table width="100%" border="0" cellpadding="5" cellspacing="0">
-  <tr>
-    <!-- Project 1 -->
-    <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/Medical%20AI-Brain%20Tumor%20Classification-FF5252?style=for-the-badge&logo=google-brain" width="100%" />
-      <p>🏥 <b><a href="https://github.com/mrhashx/brain-tumor-classification-deep-learning">Brain Tumor Deep Learning Pipeline</a></b><br>
-      Deploys custom multi-stage Transfer Learning and Fine-Tuning across VGG16, ResNet50, and InceptionV3 grids to isolate multi-class tissue anomalies from raw Brain MRI scans.</p>
-    </td>
-    <!-- Project 2 -->
-    <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/Computer%20Vision-DIP%20Algorithms%20Toolkit-00B0FF?style=for-the-badge&logo=opencv" width="100%" />
-      <p>🎛️ <b><a href="https://github.com/mrhashx/digital-image-processing-toolkit">Digital Image Processing Toolkit</a></b><br>
-      A mathematically rigorous image matrix architecture implementing custom 2D spatial convolutions, edge padding styles, and manual Fourier lowpass attenuation filtering.</p>
-    </td>
-  </tr>
-  <tr>
-    <!-- Project 3 -->
-    <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/Data%20Science-Housing%20Regression%20Framework-00E676?style=for-the-badge&logo=scikit-learn" width="100%" />
-      <p>🏡 <b><a href="https://github.com/mrhashx/ames-housing-regression-analysis">Ames Housing Price Predictor</a></b><br>
-      Optimizes tabular modeling via ColumnTransformer feature scaling, non-linear log transformations, and embedded Adaptive Lasso feature penalization configurations.</p>
-    </td>
-    <!-- Project 4 -->
-    <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/NLP-Cyberbullying%20Detection%20Suite-E040FB?style=for-the-badge&logo=databricks" width="100%" />
-      <p>💬 <b><a href="https://github.com/mrhashx/cyberbullying-detection-nlp">Semantic Content Moderation</a></b><br>
-      An advanced natural language pipeline combining PorterStemmer normalization and unigram/bigram sublinear TF-IDF vectorizers with high-margin text classifiers.</p>
-    </td>
-  </tr>
-</table>
+I am an **Artificial Intelligence Engineer** and researcher holding a Master's degree in AI (Class of 2026). My academic and professional passion lies at the intersection of **Deep Learning architectures**, computer vision, and building high-performance localized intelligence systems. 
+
+Beyond the world of neural networks, I am an active tactical shooter gamer and online streamer broadcasting under the alias **EDY** (or **EDY earthly**), specialized as a dedicated sniper (AWP) player. I also enjoy combining my deep technical background with personal passions, ranging from infrastructure optimization to complex systems management.
 
 ---
 
-## 📊 Analytical Insights & GitHub Metrics
+### 🛠️ Tech Stack & Expertise
+
+- **Artificial Intelligence:** Deep Learning Frameworks, Computer Vision, Neural Network Architecture Design.
+- **Languages & Frameworks:** Python, PyTorch, TensorFlow, OpenCV.
+- **Infrastructure & Networking:** Localized Routing, Custom Tunnels, Secure Proxy Infrastructure Management (`x-ui` / `3x-ui`), Port Mapping, Edge Gateways.
+- **Academic Research:** Co-authored and published deep learning framework research in high-impact journals (e.g., *Optik*).
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrhashx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrhashx&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mrhashx&show_icons=true&theme=radical&hide_border=true" alt="EDY's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrhashx&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 ---
 
-## 🧲 Connect & Collaborate
+### 🎯 Current Focus & Projects
+
+- **Deep Learning Frameworks:** Refining advanced neural networks for publication and real-world deployment.
+- **Stream Setup & Gaming:** Broadcasting competitive Tactical Shooters (*Counter-Strike 2*, *Call of Duty*) with optimized low-latency network tunnels.
+- **Network Engineering:** Experimenting with dedicated IPv4 blocks, localized routing maps, and secure server management.
+
+---
 
 <p align="center">
-  <a href="https://github.com/mrhashx" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Account" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&theme=tokyonight" width="100%" alt="Footer Wave" />
+  <i>"Simplicity is the ultimate sophistication. Coding the future, one epoch at a time."</i>
 </p>
